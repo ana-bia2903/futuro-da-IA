@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049... Izac";
+    caixaPerguntas.textContent = "Em 2049... Ana Beatriz";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
